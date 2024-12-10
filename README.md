@@ -47,5 +47,17 @@ For the sales dashboard, I created two bookmarks. One for Total Profit, and the 
 
 I created 5 key roles based on the markets Global Super Store operates in. These include Africa, Asia Pacific, Europe, LATAM, and USCA.
 
+<img width="484" alt="image" src="https://github.com/user-attachments/assets/4293bb7d-b283-49e1-94d1-c3bf7fdea0fc">
+
+## RECOMMENDATIONS
+
+Based on the insights from the visualizations, here are the recommendations I made, Global Super Store should:
+
+1. Focus on boosting sales in high-performing markets like the United States and explore opportunities in underperforming markets like The Gambia.
+2. Invest more in the growing Technology category and explore additional opportunities in Office Supplies.
+3. Recognize and support top-performing individuals like Gilbert Wolff, while providing training for lower performers.
+4. Prepare for peak sales seasons (like July–December) with targeted promotions and increased inventory.
+5. Expand product offerings and promotions in growing categories to capture untapped demand.
 
 
+medium blog: https://medium.com/@stephaniedawsonnandoh/sales-dashboard-for-global-super-store-926f72f074e1

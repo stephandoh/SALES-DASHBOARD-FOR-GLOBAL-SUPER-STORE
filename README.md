@@ -11,4 +11,4 @@ Returns Table - Tracks returned orders with columns like Order ID, Region, and R
 People Table - Lists regional managers (Person) and their assigned Region.
 Date Table - Provides time-related details like Month Name, Week Number, and Year.
 
-![image](https://github.com/user-attachments/assets/ae46bc46-551b-4b44-b8b4-bc49183eba31)
+<img width="618" alt="image" src="https://github.com/user-attachments/assets/ea980402-17e2-466d-8500-5a0d9b79e069">

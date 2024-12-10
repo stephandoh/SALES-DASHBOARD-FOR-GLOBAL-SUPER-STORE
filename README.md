@@ -10,3 +10,5 @@ This project uses the Orders table as the fact table, containing key details suc
 Returns Table - Tracks returned orders with columns like Order ID, Region, and Returned.
 People Table - Lists regional managers (Person) and their assigned Region.
 Date Table - Provides time-related details like Month Name, Week Number, and Year.
+
+![image](https://github.com/user-attachments/assets/ae46bc46-551b-4b44-b8b4-bc49183eba31)

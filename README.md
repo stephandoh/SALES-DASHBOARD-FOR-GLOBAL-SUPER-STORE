@@ -29,3 +29,4 @@ Date Table - Provides time-related details like Month Name, Week Number, and Yea
 
 ## DASHBOARD AND INSIGHTS
 
+<img width="530" alt="image" src="https://github.com/user-attachments/assets/4ea58da3-6864-450d-9791-3da0fe4772e1">
